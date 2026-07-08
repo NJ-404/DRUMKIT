@@ -37,8 +37,5 @@ You can play the drums by either clicking the icons with your mouse or pressing 
 * **CSS3:** For styling, positioning, and adding visual flair (like custom fonts and background colors).
 * **JavaScript (Vanilla):** To handle event listeners for mouse clicks and keyboard strokes, and to trigger the audio files.
 
----
-
-## Author
 
 **Made with love BY NJ-404**
