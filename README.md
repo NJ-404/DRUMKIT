@@ -1,6 +1,4 @@
-Here is the updated README template with all emojis removed.
 
----
 
 # Drum Kit
 
